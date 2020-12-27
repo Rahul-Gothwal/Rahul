@@ -25,6 +25,15 @@ Love sleeping :sleeping: more than code :technologist:
 ![Git](https://img.shields.io/badge/-Git-fff?&logo=git)
 
 
+### Check out my latest articles
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rahul-gothwal/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rahul-gothwal/0" alt="Recent Article 0">
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rahul-gothwal/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rahul-gothwal/1" alt="Recent Article 1">
+ 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rahul-gothwal/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rahul-gothwal/2" alt="Recent Article 2">
+  
+
 
 <a href="https://www.linkedin.com/in/rauhlgothwal/">
   <img align="left" alt="Rahul's Linkedin" src="https://img.icons8.com/plasticine/50/000000/linkedin.png"/>
